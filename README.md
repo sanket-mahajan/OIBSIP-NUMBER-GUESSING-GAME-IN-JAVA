@@ -1,3 +1,5 @@
+# OIBSIP-TASK-2-NUMBER-GUESSING-GAME-IN-JAVA
+
 Number Guessing Game in Java
 This is a simple Java program for a number guessing game. The program generates a random number between 1 and 100 and prompts the user to guess the number.
 The user is given feedback on whether their guess is too high, too low, or correct. The game continues until the user correctly guesses the number.
